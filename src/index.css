@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+ul {
+  margin: 0px;
+}
+
+.text {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.dark {
+  background-color: #777777;
+  color: gainsboro;
+}
+
+.dark p,
+.dark a {
+  color: gainsboro;
+}
+
+.light {
+  background-color: gainsboro;
+  color: #777777;
+}
+
+.light p,
+.light a {
+  color: #777777;
+}
+
+span {
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.css.map */

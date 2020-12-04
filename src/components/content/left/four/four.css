@@ -1,0 +1,22 @@
+.menu {
+  padding: 20px 15px;
+  max-width: 140px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: initial;
+  margin: 0;
+}
+
+.menu-item {
+  list-style: none;
+}
+
+.active {
+  font-weight: bold !important;
+}
+/*# sourceMappingURL=four.css.map */

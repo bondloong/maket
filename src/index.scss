@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+ul {
+    margin: 0px;
+}
+
+.text {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.dark {
+    background-color: #777777;
+    color: rgb(220, 220, 220);
+    p,
+    a {
+        color: rgb(220, 220, 220);
+    }
+}
+
+.light {
+    background-color: rgb(220, 220, 220);
+    color: #777777;
+    p,
+    a {
+        color: #777777;
+    }
+    ul {}
+}
+
+span {
+    font-weight: bold;
+}

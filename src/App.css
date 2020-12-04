@@ -1,0 +1,16 @@
+.Wrapper {
+  display: block;
+  max-width: 960px;
+  margin: 0px auto;
+}
+
+a {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+p {
+  margin: 0px;
+}
+/*# sourceMappingURL=App.css.map */

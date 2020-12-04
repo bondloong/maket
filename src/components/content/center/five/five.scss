@@ -1,0 +1,11 @@
+.five {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.five__list {
+    margin: 35px 0px;
+}
